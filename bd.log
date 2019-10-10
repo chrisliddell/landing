@@ -1,0 +1,48 @@
+﻿
+INSERT INTO landingoct (nombre, empresa, productos, info, telefono, correo) VALUES ('prueba3', 'imagineer', 'prueba3', '', '1234589', 'cliddell@imagineercx.com')
+
+INSERT INTO landingoct (nombre, empresa, productos, info, telefono, correo) VALUES ('prueba4', 'imagineer', 'prueba4', 'prueba 4', '123456798', 'cliddell@imagineercx.com')
+
+INSERT INTO landingoct (nombre, empresa, productos, info, telefono, correo) VALUES ('Susana Prueba', 'Prueba', 'Prueba', 'Prueba', '88888888', 'smatamoros@imagineercx.com')
+
+INSERT INTO landingoct (nombre, empresa, productos, info, telefono, correo) VALUES ('Susana Prueba', 'Prueba', 'Prueba', 'Prueba', '88888888', 'smatamoros@imagineercx.com')
+
+INSERT INTO landingoct (nombre, empresa, productos, info, telefono, correo) VALUES ('prueba5', 'imagineer', 'prueba', 'prueba', '123456789', 'cliddell@imagineercx.com')
+
+INSERT INTO landingoct (nombre, empresa, productos, info, telefono, correo) VALUES ('Susana Prueba2', 'Prueba', 'Prueba', 'Prueba', '88888888', 'smatamoros@imagineercx.com')
+
+INSERT INTO landingoct (nombre, empresa, productos, info, telefono, correo) VALUES ('prueba6', 'imagineer', 'prod1 prod2', 'prueba', '123456789', 'cliddell@imagineercx.com')
+
+INSERT INTO landingoct (nombre, empresa, productos, info, telefono, correo) VALUES ('Felipe', 'Cueropapel&tijera', 'Mariconeras', 'Necesito 100 mariconeras color miel para el 15 de Octubre', '88469222', 'felipe.balma@cueropapelytijera.com')
+
+INSERT INTO landingoct (nombre, empresa, productos, info, telefono, correo) VALUES ('prueba7', 'imagineer', 'prueba', 'prueba', '78956489', 'cliddell@imagineercx.com')
+
+INSERT INTO landingoct (nombre, empresa, productos, info, telefono, correo) VALUES ('Susana Prueba', 'Prueba', 'Prueba', 'Prueba', '8888888', 'Prueba@imagineercx.com')
+
+INSERT INTO landingoct (nombre, empresa, productos, info, telefono, correo) VALUES ('Susana Prueba', 'Prueba', 'Prueba', 'Prueba', '8888888', 'Prueba@imagineercx.com')
+
+INSERT INTO landingoct (nombre, empresa, productos, info, telefono, correo) VALUES ('Susana', 'Prueba', 'Prueba', 'Prueba', '8888888', 'smatamoros@imagineercx.com')
+
+INSERT INTO landingoct (nombre, empresa, productos, info, telefono, correo) VALUES ('prueba8', 'imagineer', 'prueba', 'prueba', '45634124', 'cliddell@imagineercx.com')
+
+INSERT INTO landingoct (nombre, empresa, productos, info, telefono, correo) VALUES ('prueba9', 'imagineer', 'prod1 prod2', 'hgehetr', '145325', 'cliddell@imagineercx.com')
+
+INSERT INTO landingoct (nombre, empresa, productos, info, telefono, correo) VALUES ('Susana', 'Prueba', 'Prueba', 'Prueba', '8888888', 'smatamoros@imagineercx.com')
+
+INSERT INTO landingoct (nombre, empresa, productos, info, telefono, correo) VALUES ('prueba10', 'imagineer', 'prueba', '', '45649', 'cliddell@imagineercx.com')
+
+INSERT INTO landingoct (nombre, empresa, productos, info, telefono, correo) VALUES ('Susana', 'Prueba', 'Prueba', 'Prueba', '8888888', 'smatamoros@imagineercx.com')
+
+INSERT INTO landingoct (nombre, empresa, productos, info, telefono, correo) VALUES ('prueba10', 'imagineer', 'prueba', '', '45489', 'cliddell@imagineercx.com')
+
+INSERT INTO landingoct (nombre, empresa, productos, info, telefono, correo) VALUES ('Susana', 'Prueba', 'Prueba', 'Prueba', '88888888', 'smatamoros@imagineercx.com')
+
+INSERT INTO landingoct (nombre, empresa, productos, info, telefono, correo) VALUES ('prueba10', 'imagineer', 'prueba', '', '123456789', 'cliddell@imagineercx.com')
+
+INSERT INTO landingoct (nombre, empresa, productos, info, telefono, correo) VALUES ('Susana', 'Prueba', 'Prueba', 'Prueba', '888888', 'marigomez.8812@gmail.com ')
+
+INSERT INTO landingoct (nombre, empresa, productos, info, telefono, correo) VALUES ('pruebaFinal', 'imagineer', 'prueba', '', '456456', 'cliddell@imagineercx.com')
+
+INSERT INTO landingoct (nombre, empresa, productos, info, telefono, correo) VALUES ('prueba', 'imagineer', 'prueba', '', '5555555', 'cliddell@imagineercx.com')
+
+INSERT INTO landingoct (nombre, empresa, productos, info, telefono, correo) VALUES ('Susana', 'Prueba', 'Prueba', 'Prueba', '888888888', 'marigomez.8812@gmail.com')
